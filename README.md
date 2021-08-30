@@ -1,5 +1,5 @@
 # Buffer Overflows and Exploit Development
-<br><br>
+<br>
 ## x86 Architecture Registers
 EAX, AX, AH, AL - accumulator register - arithmetic results, output of function call, etc.<br>
 EBX, BX, BH, BL - base register - base pointer for memory access<br>
